@@ -41,8 +41,8 @@ As a Power BI developer at XYZ Traders, my task was to create an executive-level
 ---
 
 ## 📸 Screenshot Preview
+![Sales Report Summary](Sales-Report-Summary.png)
 
-![Sales Report Summary](images/sales-report-summary.png)
 
 
 ---
